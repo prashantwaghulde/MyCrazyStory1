@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Crazy Story 1</string>
+
+    <!--   Main Activity Fields -->
+
+    <string name="ivTitleContentDescription"> Signal From March Title Image</string>
+    <string name="btnStart">START YOUR ADVENTURE</string>
+    <string name="hintName">Enter your name</string>
+
 </resources>
